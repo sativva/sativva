@@ -1,16 +1,23 @@
-## Hi there 👋
+# Thomas RONDIO
 
-<!--
-**sativva/sativva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Shopify et fondateur de [Tranzistor](https://tranzistor.tech).
 
-Here are some ideas to get you started:
+Je conçois des thèmes, des apps et des intégrations métier pour Shopify, avec une approche simple : comprendre le vrai besoin, construire proprement et rester disponible après la mise en ligne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Applications Shopify
+
+| Application | Pour quoi faire ? | Accès |
+| --- | --- | --- |
+| **Power Plus** | Formulaires, FAQ, fil d’Ariane, store locator, polices et autres MiniApps. | [Voir sur le Shopify App Store →](https://apps.shopify.com/fancy-sections) |
+| **Ekookie** | Gérer le consentement aux cookies et les préférences par catégorie. | [Voir sur le Shopify App Store →](https://apps.shopify.com/ekookie) |
+| **Power Breadcrumb** | Créer des fils d’Ariane et les données structurées associées pour le SEO. | [Voir sur le Shopify App Store →](https://apps.shopify.com/power-breadcrumb) |
+
+## Tranzistor
+
+Agence Shopify entre Paris et Rio : thèmes, apps et intégrations ERP/API depuis 2017.
+
+[Découvrir Tranzistor →](https://tranzistor.tech) · [Voir toutes les apps Shopify →](https://apps.shopify.com/partners/connector-axeptio)
+
+## Stack
+
+Shopify · Liquid · GraphQL · Ruby on Rails · PostgreSQL · React · Node.js · Polaris
